@@ -31,7 +31,7 @@ git clone https://github.com/avnerjose/reactjs-nextjs-jwtssrauth.git
 2. Install all dependencies
 
 ```bash
-  yarn
+yarn
 ```
 3. Go to the folder you cloned the repository and start the app
 ```base
