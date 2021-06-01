@@ -1,7 +1,7 @@
 # NextJSAuth - ReactJS                                                     
                                   
 <p align="center">
-<img src="assets/nextjsjwt.gif" /> 
+<img src="nextjsjwt.gif" /> 
 </p>
 This code was developed based on an Youtube video by RocketSeat
 
